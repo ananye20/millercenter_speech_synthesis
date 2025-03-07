@@ -50,7 +50,7 @@ The tool is flexible and can **scrape and generate word clouds for any president
 
 ## Data and Files Required
 - **URL of Presidential Speech**
-- **Image of President (png)**
+- **Image of President (jpg)**
 
 ---
 
